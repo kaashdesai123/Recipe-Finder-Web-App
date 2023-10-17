@@ -1,0 +1,4 @@
+mkdir recipe-finder
+cd recipe-finder
+npm init -y
+npm install express mongoose dotenv ejs body-parser
